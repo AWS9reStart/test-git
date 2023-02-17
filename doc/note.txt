@@ -1,0 +1,3 @@
+# note.txt
+
+add the txt using VS Code
